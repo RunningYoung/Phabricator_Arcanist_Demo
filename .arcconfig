@@ -6,5 +6,5 @@
   "arc.land.onto.default": "master",
   "arc.land.update.default": "rebase",
   "history.immutable": false
-  
-}
+ 
+ }
