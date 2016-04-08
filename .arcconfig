@@ -1,0 +1,10 @@
+{
+  "phabricator.uri" : "http://127.0.0.1:8888",
+  "editor": "vim",
+  "base": "git:HEAD^",
+  "arc.feature.start.default": "master",
+  "arc.land.onto.default": "master",
+  "arc.land.update.default": "rebase",
+  "history.immutable": false
+  
+}
